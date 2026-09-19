@@ -13,4 +13,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nicolemeirelles&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique897777/Henrique897777/output/github-contribution-grid-snake.svg">
+  </picture>
 
